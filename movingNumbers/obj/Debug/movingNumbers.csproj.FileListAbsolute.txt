@@ -1,0 +1,9 @@
+C:\Users\rahel\Google Drive\אריאל\שנה ב\סמסטר א\c sharp design patterns\class assignments\movingNumbers\movingNumbers\bin\Debug\movingNumbers.exe.config
+C:\Users\rahel\Google Drive\אריאל\שנה ב\סמסטר א\c sharp design patterns\class assignments\movingNumbers\movingNumbers\bin\Debug\movingNumbers.exe
+C:\Users\rahel\Google Drive\אריאל\שנה ב\סמסטר א\c sharp design patterns\class assignments\movingNumbers\movingNumbers\bin\Debug\movingNumbers.pdb
+C:\Users\rahel\Google Drive\אריאל\שנה ב\סמסטר א\c sharp design patterns\class assignments\movingNumbers\movingNumbers\obj\Debug\movingNumbers.csprojAssemblyReference.cache
+C:\Users\rahel\Google Drive\אריאל\שנה ב\סמסטר א\c sharp design patterns\class assignments\movingNumbers\movingNumbers\obj\Debug\movingNumbers.Properties.Resources.resources
+C:\Users\rahel\Google Drive\אריאל\שנה ב\סמסטר א\c sharp design patterns\class assignments\movingNumbers\movingNumbers\obj\Debug\movingNumbers.csproj.GenerateResource.cache
+C:\Users\rahel\Google Drive\אריאל\שנה ב\סמסטר א\c sharp design patterns\class assignments\movingNumbers\movingNumbers\obj\Debug\movingNumbers.csproj.CoreCompileInputs.cache
+C:\Users\rahel\Google Drive\אריאל\שנה ב\סמסטר א\c sharp design patterns\class assignments\movingNumbers\movingNumbers\obj\Debug\movingNumbers.exe
+C:\Users\rahel\Google Drive\אריאל\שנה ב\סמסטר א\c sharp design patterns\class assignments\movingNumbers\movingNumbers\obj\Debug\movingNumbers.pdb
